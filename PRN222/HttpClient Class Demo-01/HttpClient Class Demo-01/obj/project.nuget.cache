@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWhDRlQN6lA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\-MSI-\\Downloads\\PRN222\\PRN222\\HttpClient Class Demo-01\\HttpClient Class Demo-01\\HttpClient Class Demo-01.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\-MSI-\\Downloads\\Telerik_Reporting_18.3.24.1218_NuGet_DEV' doesn't exist.",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets"
+    }
+  ]
+}
